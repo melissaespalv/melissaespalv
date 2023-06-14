@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm Melissa  🌊  a tech enthusiast, innovator & 
  👀 I'm interested in software development, futurology, productivity, systemization and personal development.      
  🌱 I'm currently learning & exploring various technologies related to my startup projects; NFTs/digital assets, Web3 & blockchain.       
  💞️ I'm looking for software engineers/developer collaborators for my digital innovation startup projects.     
- 📫 You can reach me via email at stockmecompany@gmail.com or connect with me on LinkedIn [(/melissaespinoza)](https://www.linkedin.com/in/melissaespinoza/).
+ 📫 You can reach me via email at blitberry@gmail.com or connect with me on LinkedIn [(/melissaespinoza)](https://www.linkedin.com/in/melissaespinoza/).
 
 
 <!---
